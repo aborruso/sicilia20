@@ -47,7 +47,7 @@ setParams({
             this setting can't be changed from the User Interface
         */
     showEdgeLabel : true,
-    language: it,
+    language: false,
         /*
             Set to an ISO language code to switch the interface to that language.
             Available languages are:
