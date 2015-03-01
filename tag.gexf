@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <gexf xmlns="http://www.gexf.net/1.1draft" version="1.1" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.1draft http://www.gexf.net/1.1draft/gexf.xsd">
-  <meta lastmodifieddate="2015-02-28">
+  <meta lastmodifieddate="2015-03-01">
     <creator>Gephi 0.8</creator>
     <description></description>
   </meta>
@@ -12,681 +12,1466 @@
       </attribute>
     </attributes>
     <nodes>
-      <node id="sicilia2" label="sicilia2">
+      <node id="siciliaduepuntozero" label="siciliaduepuntozero">
         <attvalues>
-          <attvalue for="Weight" value="276"></attvalue>
-          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="Weight" value="602"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
-        <viz:size value="275.0"></viz:size>
-        <viz:position x="-65.18097" y="-171.42197"></viz:position>
-        <viz:color r="194" g="11" b="11"></viz:color>
+        <viz:size value="601.0"></viz:size>
+        <viz:position x="-192.1435" y="-261.58405"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
       </node>
-      <node id="giovani" label="giovani">
+      <node id="leopoldasiciliana" label="leopoldasiciliana">
         <attvalues>
-          <attvalue for="Weight" value="15"></attvalue>
+          <attvalue for="Weight" value="19"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="18.0"></viz:size>
+        <viz:position x="-334.53867" y="-174.33759"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
+      </node>
+      <node id="messina" label="messina">
+        <attvalues>
+          <attvalue for="Weight" value="10"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="-288.4267" y="-323.88245"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
+      </node>
+      <node id="lima" label="lima">
+        <attvalues>
+          <attvalue for="Weight" value="1"></attvalue>
           <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
-        <viz:size value="14.0"></viz:size>
-        <viz:position x="453.672" y="153.05151"></viz:position>
-        <viz:color r="102" g="11" b="194"></viz:color>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="350.16956" y="-451.29794"></viz:position>
+        <viz:color r="188" g="30" b="30"></viz:color>
       </node>
-      <node id="futuro" label="futuro">
+      <node id="miccichè" label="miccichè">
         <attvalues>
-          <attvalue for="Weight" value="15"></attvalue>
+          <attvalue for="Weight" value="1"></attvalue>
           <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
-        <viz:size value="14.0"></viz:size>
-        <viz:position x="-376.09784" y="-247.35713"></viz:position>
-        <viz:color r="102" g="11" b="194"></viz:color>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="211.43243" y="-385.8913"></viz:position>
+        <viz:color r="188" g="30" b="30"></viz:color>
+      </node>
+      <node id="proconsoli" label="proconsoli">
+        <attvalues>
+          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-174.58734" y="505.31915"></viz:position>
+        <viz:color r="188" g="30" b="30"></viz:color>
       </node>
       <node id="sicilia" label="sicilia">
         <attvalues>
           <attvalue for="Weight" value="19"></attvalue>
-          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
         <viz:size value="18.0"></viz:size>
-        <viz:position x="416.59094" y="237.60449"></viz:position>
-        <viz:color r="102" g="11" b="194"></viz:color>
+        <viz:position x="-302.70956" y="-211.68076"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
       </node>
-      <node id="tavolo15" label="tavolo15">
-        <attvalues>
-          <attvalue for="Weight" value="6"></attvalue>
-          <attvalue for="modularity_class" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="5.0"></viz:size>
-        <viz:position x="-240.15018" y="81.37018"></viz:position>
-        <viz:color r="194" g="11" b="11"></viz:color>
-      </node>
-      <node id="palermo" label="palermo">
-        <attvalues>
-          <attvalue for="Weight" value="19"></attvalue>
-          <attvalue for="modularity_class" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="18.0"></viz:size>
-        <viz:position x="-78.93112" y="481.88275"></viz:position>
-        <viz:color r="194" g="11" b="11"></viz:color>
-      </node>
-      <node id="versosud" label="versosud">
-        <attvalues>
-          <attvalue for="Weight" value="50"></attvalue>
-          <attvalue for="modularity_class" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="49.0"></viz:size>
-        <viz:position x="340.32178" y="-189.5914"></viz:position>
-        <viz:color r="194" g="11" b="11"></viz:color>
-      </node>
-      <node id="sicilia2puntozero" label="sicilia2puntozero">
+      <node id="crocettastaisereno" label="crocettastaisereno">
         <attvalues>
           <attvalue for="Weight" value="3"></attvalue>
-          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
         <viz:size value="2.0"></viz:size>
-        <viz:position x="-47.83792" y="-180.11005"></viz:position>
-        <viz:color r="194" g="11" b="11"></viz:color>
+        <viz:position x="507.95148" y="-167.02762"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
       </node>
-      <node id="donne" label="donne">
+      <node id="iostoconelly" label="iostoconelly">
         <attvalues>
-          <attvalue for="Weight" value="4"></attvalue>
-          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-421.65234" y="-474.73337"></viz:position>
-        <viz:color r="194" g="11" b="11"></viz:color>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-33.200195" y="-404.6837"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
       </node>
       <node id="leopolda" label="leopolda">
         <attvalues>
           <attvalue for="Weight" value="9"></attvalue>
-          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
         <viz:size value="8.0"></viz:size>
-        <viz:position x="381.34747" y="190.98468"></viz:position>
-        <viz:color r="194" g="11" b="11"></viz:color>
+        <viz:position x="-428.2771" y="23.791931"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
       </node>
-      <node id="siciliaduepuntozero" label="siciliaduepuntozero">
+      <node id="palermo" label="palermo">
         <attvalues>
-          <attvalue for="Weight" value="12"></attvalue>
-          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="Weight" value="21"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
-        <viz:size value="11.0"></viz:size>
-        <viz:position x="497.28796" y="179.18433"></viz:position>
-        <viz:color r="194" g="11" b="11"></viz:color>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="250.92932" y="481.46997"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
       </node>
-      <node id="innovazione" label="innovazione">
-        <attvalues>
-          <attvalue for="Weight" value="5"></attvalue>
-          <attvalue for="modularity_class" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="4.0"></viz:size>
-        <viz:position x="-424.26065" y="143.90839"></viz:position>
-        <viz:color r="194" g="11" b="11"></viz:color>
-      </node>
-      <node id="socialbusiness" label="socialbusiness">
-        <attvalues>
-          <attvalue for="Weight" value="5"></attvalue>
-          <attvalue for="modularity_class" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="4.0"></viz:size>
-        <viz:position x="-22.120209" y="40.832825"></viz:position>
-        <viz:color r="194" g="11" b="11"></viz:color>
-      </node>
-      <node id="leopoldasicula" label="leopoldasicula">
-        <attvalues>
-          <attvalue for="Weight" value="4"></attvalue>
-          <attvalue for="modularity_class" value="2"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-17.700958" y="-226.70105"></viz:position>
-        <viz:color r="102" g="194" b="11"></viz:color>
-      </node>
-      <node id="sceltacivica" label="sceltacivica">
+      <node id="crocetta" label="crocetta">
         <attvalues>
           <attvalue for="Weight" value="1"></attvalue>
-          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-28.783264" y="-8.756317"></viz:position>
-        <viz:color r="102" g="194" b="11"></viz:color>
+        <viz:position x="349.68634" y="-143.83124"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
       </node>
-      <node id="popolari" label="popolari">
+      <node id="soldout" label="soldout">
         <attvalues>
           <attvalue for="Weight" value="1"></attvalue>
-          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-172.44571" y="-315.7303"></viz:position>
-        <viz:color r="102" g="194" b="11"></viz:color>
+        <viz:position x="-98.91574" y="33.120056"></viz:position>
+        <viz:color r="30" g="93" b="188"></viz:color>
       </node>
-      <node id="pd" label="pd">
+      <node id="condivisione" label="condivisione">
+        <attvalues>
+          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="284.97388" y="-139.47037"></viz:position>
+        <viz:color r="30" g="93" b="188"></viz:color>
+      </node>
+      <node id="braccialettirossi" label="braccialettirossi">
+        <attvalues>
+          <attvalue for="Weight" value="3"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-274.7173" y="303.576"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
+      </node>
+      <node id="almirante" label="almirante">
+        <attvalues>
+          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="39.155396" y="228.5871"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
+      </node>
+      <node id="postgol" label="postgol">
+        <attvalues>
+          <attvalue for="Weight" value="6"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="30.871643" y="-282.79"></viz:position>
+        <viz:color r="62" g="188" b="30"></viz:color>
+      </node>
+      <node id="startup" label="startup">
+        <attvalues>
+          <attvalue for="Weight" value="6"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="260.95935" y="-278.02927"></viz:position>
+        <viz:color r="62" g="188" b="30"></viz:color>
+      </node>
+      <node id="adidas" label="adidas">
+        <attvalues>
+          <attvalue for="Weight" value="6"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-219.95477" y="-326.1033"></viz:position>
+        <viz:color r="62" g="188" b="30"></viz:color>
+      </node>
+      <node id="futsal" label="futsal">
         <attvalues>
           <attvalue for="Weight" value="3"></attvalue>
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="2.0"></viz:size>
-        <viz:position x="222.53772" y="146.7085"></viz:position>
-        <viz:color r="102" g="194" b="11"></viz:color>
+        <viz:position x="101.41992" y="237.76349"></viz:position>
+        <viz:color r="62" g="188" b="30"></viz:color>
       </node>
-      <node id="onlyinitaly" label="onlyinitaly">
+      <node id="sport" label="sport">
         <attvalues>
-          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="Weight" value="6"></attvalue>
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
-        <viz:size value="1.0"></viz:size>
-        <viz:position x="280.92902" y="218.9754"></viz:position>
-        <viz:color r="102" g="194" b="11"></viz:color>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-373.67557" y="107.35242"></viz:position>
+        <viz:color r="62" g="188" b="30"></viz:color>
       </node>
-      <node id="neiguai" label="neiguai">
+      <node id="betclic" label="betclic">
         <attvalues>
-          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="Weight" value="6"></attvalue>
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
-        <viz:size value="1.0"></viz:size>
-        <viz:position x="130.48053" y="303.38654"></viz:position>
-        <viz:color r="102" g="194" b="11"></viz:color>
-      </node>
-      <node id="lavoltabuona" label="lavoltabuona">
-        <attvalues>
-          <attvalue for="Weight" value="3"></attvalue>
-          <attvalue for="modularity_class" value="2"></attvalue>
-        </attvalues>
-        <viz:size value="2.0"></viz:size>
-        <viz:position x="478.48517" y="-249.60873"></viz:position>
-        <viz:color r="102" g="194" b="11"></viz:color>
-      </node>
-      <node id="cumlaude" label="cumlaude">
-        <attvalues>
-          <attvalue for="Weight" value="5"></attvalue>
-          <attvalue for="modularity_class" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="4.0"></viz:size>
-        <viz:position x="201.78955" y="264.8947"></viz:position>
-        <viz:color r="194" g="11" b="11"></viz:color>
-      </node>
-      <node id="wearorange" label="wearorange">
-        <attvalues>
-          <attvalue for="Weight" value="4"></attvalue>
-          <attvalue for="modularity_class" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="3.0"></viz:size>
-        <viz:position x="-199.21436" y="377.76276"></viz:position>
-        <viz:color r="194" g="11" b="11"></viz:color>
-      </node>
-      <node id="ilmiospeech" label="ilmiospeech">
-        <attvalues>
-          <attvalue for="Weight" value="15"></attvalue>
-          <attvalue for="modularity_class" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="14.0"></viz:size>
-        <viz:position x="36.138245" y="153.0968"></viz:position>
-        <viz:color r="194" g="11" b="11"></viz:color>
-      </node>
-      <node id="macelleriasociale" label="macelleriasociale">
-        <attvalues>
-          <attvalue for="Weight" value="1"></attvalue>
-          <attvalue for="modularity_class" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="1.0"></viz:size>
-        <viz:position x="111.79053" y="-346.50116"></viz:position>
-        <viz:color r="194" g="11" b="11"></viz:color>
-      </node>
-      <node id="italia" label="italia">
-        <attvalues>
-          <attvalue for="Weight" value="1"></attvalue>
-          <attvalue for="modularity_class" value="0"></attvalue>
-        </attvalues>
-        <viz:size value="1.0"></viz:size>
-        <viz:position x="362.40704" y="140.80646"></viz:position>
-        <viz:color r="102" g="11" b="194"></viz:color>
-      </node>
-      <node id="labuonapolitica" label="labuonapolitica">
-        <attvalues>
-          <attvalue for="Weight" value="1"></attvalue>
-          <attvalue for="modularity_class" value="2"></attvalue>
-        </attvalues>
-        <viz:size value="1.0"></viz:size>
-        <viz:position x="-78.72809" y="-447.1733"></viz:position>
-        <viz:color r="102" g="194" b="11"></viz:color>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="297.58704" y="109.70886"></viz:position>
+        <viz:color r="62" g="188" b="30"></viz:color>
       </node>
       <node id="sicilia2punto0" label="sicilia2punto0">
         <attvalues>
-          <attvalue for="Weight" value="3"></attvalue>
-          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="Weight" value="24"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
-        <viz:size value="2.0"></viz:size>
-        <viz:position x="99.78052" y="-114.46982"></viz:position>
-        <viz:color r="194" g="11" b="11"></viz:color>
-      </node>
-      <node id="terminiimerese" label="terminiimerese">
-        <attvalues>
-          <attvalue for="Weight" value="3"></attvalue>
-          <attvalue for="modularity_class" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="2.0"></viz:size>
-        <viz:position x="88.08124" y="123.31598"></viz:position>
-        <viz:color r="194" g="11" b="11"></viz:color>
-      </node>
-      <node id="solocosebelle" label="solocosebelle">
-        <attvalues>
-          <attvalue for="Weight" value="1"></attvalue>
-          <attvalue for="modularity_class" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="1.0"></viz:size>
-        <viz:position x="77.86749" y="482.453"></viz:position>
-        <viz:color r="194" g="11" b="11"></viz:color>
-      </node>
-      <node id="regione" label="regione">
-        <attvalues>
-          <attvalue for="Weight" value="1"></attvalue>
-          <attvalue for="modularity_class" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="1.0"></viz:size>
-        <viz:position x="393.24805" y="-106.964325"></viz:position>
-        <viz:color r="194" g="11" b="11"></viz:color>
-      </node>
-      <node id="politica" label="politica">
-        <attvalues>
-          <attvalue for="Weight" value="1"></attvalue>
-          <attvalue for="modularity_class" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="1.0"></viz:size>
-        <viz:position x="-406.42654" y="-389.77808"></viz:position>
-        <viz:color r="194" g="11" b="11"></viz:color>
-      </node>
-      <node id="selfie" label="selfie">
-        <attvalues>
-          <attvalue for="Weight" value="3"></attvalue>
-          <attvalue for="modularity_class" value="1"></attvalue>
-        </attvalues>
-        <viz:size value="2.0"></viz:size>
-        <viz:position x="-189.61072" y="-449.6336"></viz:position>
-        <viz:color r="194" g="11" b="11"></viz:color>
+        <viz:size value="23.0"></viz:size>
+        <viz:position x="470.4099" y="107.23352"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
       </node>
       <node id="piùsocial" label="piùsocial">
         <attvalues>
+          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="436.7379" y="-301.13358"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
+      </node>
+      <node id="sicilia2" label="sicilia2">
+        <attvalues>
+          <attvalue for="Weight" value="61"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="60.0"></viz:size>
+        <viz:position x="-308.4541" y="-60.30072"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
+      </node>
+      <node id="futuro" label="futuro">
+        <attvalues>
+          <attvalue for="Weight" value="8"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="7.0"></viz:size>
+        <viz:position x="81.93292" y="-51.530487"></viz:position>
+        <viz:color r="188" g="30" b="125"></viz:color>
+      </node>
+      <node id="presente" label="presente">
+        <attvalues>
+          <attvalue for="Weight" value="8"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="7.0"></viz:size>
+        <viz:position x="-366.37057" y="-372.1439"></viz:position>
+        <viz:color r="188" g="30" b="125"></viz:color>
+      </node>
+      <node id="renzi" label="renzi">
+        <attvalues>
+          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="331.65253" y="-45.461"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
+      </node>
+      <node id="sbrex" label="sbrex">
+        <attvalues>
+          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-356.5794" y="-276.39374"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
+      </node>
+      <node id="pd" label="pd">
+        <attvalues>
+          <attvalue for="Weight" value="5"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-29.686798" y="386.63208"></viz:position>
+        <viz:color r="30" g="188" b="93"></viz:color>
+      </node>
+      <node id="normanzarcone" label="normanzarcone">
+        <attvalues>
           <attvalue for="Weight" value="3"></attvalue>
-          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
         <viz:size value="2.0"></viz:size>
-        <viz:position x="198.52539" y="247.27838"></viz:position>
-        <viz:color r="194" g="11" b="11"></viz:color>
+        <viz:position x="-316.63483" y="-393.99057"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
       </node>
-      <node id="csa" label="csa">
+      <node id="diritti" label="diritti">
+        <attvalues>
+          <attvalue for="Weight" value="22"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="138.6253" y="153.25616"></viz:position>
+        <viz:color r="30" g="188" b="93"></viz:color>
+      </node>
+      <node id="delrio" label="delrio">
+        <attvalues>
+          <attvalue for="Weight" value="7"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="180.37689" y="-106.53784"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
+      </node>
+      <node id="diritticivili" label="diritticivili">
+        <attvalues>
+          <attvalue for="Weight" value="3"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-428.25302" y="-82.62012"></viz:position>
+        <viz:color r="30" g="188" b="93"></viz:color>
+      </node>
+      <node id="famiglie" label="famiglie">
+        <attvalues>
+          <attvalue for="Weight" value="8"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="7.0"></viz:size>
+        <viz:position x="223.75452" y="-413.36185"></viz:position>
+        <viz:color r="30" g="188" b="93"></viz:color>
+      </node>
+      <node id="unionicivili" label="unionicivili">
+        <attvalues>
+          <attvalue for="Weight" value="7"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-487.6721" y="-159.32855"></viz:position>
+        <viz:color r="30" g="188" b="93"></viz:color>
+      </node>
+      <node id="antidiscriminazioni" label="antidiscriminazioni">
+        <attvalues>
+          <attvalue for="Weight" value="3"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-109.48453" y="185.6242"></viz:position>
+        <viz:color r="30" g="188" b="93"></viz:color>
+      </node>
+      <node id="educarealledifferenze" label="educarealledifferenze">
+        <attvalues>
+          <attvalue for="Weight" value="7"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="466.49915" y="-341.32843"></viz:position>
+        <viz:color r="30" g="188" b="93"></viz:color>
+      </node>
+      <node id="burrafato" label="burrafato">
         <attvalues>
           <attvalue for="Weight" value="1"></attvalue>
-          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-385.2606" y="105.52075"></viz:position>
-        <viz:color r="11" g="194" b="194"></viz:color>
+        <viz:position x="-9.365295" y="-68.767426"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
       </node>
-      <node id="gruppocsa" label="gruppocsa">
+      <node id="scuola" label="scuola">
+        <attvalues>
+          <attvalue for="Weight" value="6"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-470.3542" y="319.7292"></viz:position>
+        <viz:color r="30" g="188" b="93"></viz:color>
+      </node>
+      <node id="instagram" label="instagram">
         <attvalues>
           <attvalue for="Weight" value="1"></attvalue>
-          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-262.87344" y="499.8592"></viz:position>
-        <viz:color r="11" g="194" b="194"></viz:color>
+        <viz:position x="-140.15625" y="270.51746"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
+      </node>
+      <node id="igerspalermo" label="igerspalermo">
+        <attvalues>
+          <attvalue for="Weight" value="3"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="409.2422" y="-433.95993"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
+      </node>
+      <node id="pasticceriamarsicano" label="pasticceriamarsicano">
+        <attvalues>
+          <attvalue for="Weight" value="5"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-185.7467" y="502.8584"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
+      </node>
+      <node id="dateunsegnocazzo" label="dateunsegnocazzo">
+        <attvalues>
+          <attvalue for="Weight" value="3"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-26.869812" y="48.379517"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
+      </node>
+      <node id="smartcities" label="smartcities">
+        <attvalues>
+          <attvalue for="Weight" value="6"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="434.53625" y="-455.94824"></viz:position>
+        <viz:color r="156" g="188" b="30"></viz:color>
+      </node>
+      <node id="innovazione" label="innovazione">
+        <attvalues>
+          <attvalue for="Weight" value="10"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="-288.5572" y="-225.26416"></viz:position>
+        <viz:color r="156" g="188" b="30"></viz:color>
+      </node>
+      <node id="mivienedapiangere" label="mivienedapiangere">
+        <attvalues>
+          <attvalue for="Weight" value="4"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="3.0"></viz:size>
+        <viz:position x="27.871094" y="198.54102"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
+      </node>
+      <node id="galattica" label="galattica">
+        <attvalues>
+          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-223.7059" y="-290.0048"></viz:position>
+        <viz:color r="188" g="125" b="30"></viz:color>
+      </node>
+      <node id="genovaveloce" label="genovaveloce">
+        <attvalues>
+          <attvalue for="Weight" value="5"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-218.29562" y="-73.11981"></viz:position>
+        <viz:color r="188" g="125" b="30"></viz:color>
+      </node>
+      <node id="buonapolitica" label="buonapolitica">
+        <attvalues>
+          <attvalue for="Weight" value="3"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="312.61218" y="-399.5999"></viz:position>
+        <viz:color r="188" g="125" b="30"></viz:color>
+      </node>
+      <node id="start" label="start">
+        <attvalues>
+          <attvalue for="Weight" value="5"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="167.8559" y="-195.2515"></viz:position>
+        <viz:color r="156" g="188" b="30"></viz:color>
+      </node>
+      <node id="smartcity" label="smartcity">
+        <attvalues>
+          <attvalue for="Weight" value="5"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-103.85028" y="-135.16501"></viz:position>
+        <viz:color r="156" g="188" b="30"></viz:color>
+      </node>
+      <node id="mafia" label="mafia">
+        <attvalues>
+          <attvalue for="Weight" value="6"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-486.87045" y="-384.7961"></viz:position>
+        <viz:color r="62" g="30" b="188"></viz:color>
+      </node>
+      <node id="coraggio" label="coraggio">
+        <attvalues>
+          <attvalue for="Weight" value="8"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="7.0"></viz:size>
+        <viz:position x="489.88977" y="231.17432"></viz:position>
+        <viz:color r="62" g="30" b="188"></viz:color>
+      </node>
+      <node id="dietrolequinte" label="dietrolequinte">
+        <attvalues>
+          <attvalue for="Weight" value="3"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="263.82733" y="240.4552"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
+      </node>
+      <node id="dgtmedia" label="dgtmedia">
+        <attvalues>
+          <attvalue for="Weight" value="4"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="3.0"></viz:size>
+        <viz:position x="-466.39087" y="150.0539"></viz:position>
+        <viz:color r="62" g="188" b="30"></viz:color>
+      </node>
+      <node id="camerecommercio" label="camerecommercio">
+        <attvalues>
+          <attvalue for="Weight" value="4"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="3.0"></viz:size>
+        <viz:position x="42.392212" y="-252.7143"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
+      </node>
+      <node id="utin" label="utin">
+        <attvalues>
+          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="192.65625" y="-369.64325"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
+      </node>
+      <node id="miracolipd" label="miracolipd">
+        <attvalues>
+          <attvalue for="Weight" value="4"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="3.0"></viz:size>
+        <viz:position x="387.9594" y="-95.43173"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
+      </node>
+      <node id="renziacasa" label="renziacasa">
+        <attvalues>
+          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="508.96625" y="-146.12451"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
+      </node>
+      <node id="faraone" label="faraone">
+        <attvalues>
+          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="503.05182" y="-50.882416"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
+      </node>
+      <node id="leopoldasicula" label="leopoldasicula">
+        <attvalues>
+          <attvalue for="Weight" value="5"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="215.00226" y="387.23334"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
+      </node>
+      <node id="bolognetta" label="bolognetta">
+        <attvalues>
+          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="375.01807" y="123.65674"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
+      </node>
+      <node id="troisi" label="troisi">
+        <attvalues>
+          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="424.63092" y="-391.94443"></viz:position>
+        <viz:color r="30" g="188" b="93"></viz:color>
+      </node>
+      <node id="benigni" label="benigni">
+        <attvalues>
+          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-366.17194" y="486.62946"></viz:position>
+        <viz:color r="30" g="188" b="93"></viz:color>
+      </node>
+      <node id="davidefaraone" label="davidefaraone">
+        <attvalues>
+          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-292.55383" y="-12.556915"></viz:position>
+        <viz:color r="156" g="30" b="188"></viz:color>
+      </node>
+      <node id="partitodelinquenti" label="partitodelinquenti">
+        <attvalues>
+          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="458.75977" y="-12.91983"></viz:position>
+        <viz:color r="156" g="30" b="188"></viz:color>
+      </node>
+      <node id="lavoltabuona" label="lavoltabuona">
+        <attvalues>
+          <attvalue for="Weight" value="5"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="66.19617" y="-379.4506"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
+      </node>
+      <node id="jesuislobo" label="jesuislobo">
+        <attvalues>
+          <attvalue for="Weight" value="1"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-14.913483" y="212.36542"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
+      </node>
+      <node id="maiconsalvini" label="maiconsalvini">
+        <attvalues>
+          <attvalue for="Weight" value="3"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="498.61902" y="-215.80548"></viz:position>
+        <viz:color r="30" g="188" b="188"></viz:color>
       </node>
     </nodes>
     <edges>
-      <edge source="sicilia2" target="giovani" weight="14.0">
-        <attvalues>
-          <attvalue for="weight" value="14.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="sicilia2" target="futuro" weight="14.0">
-        <attvalues>
-          <attvalue for="weight" value="14.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="sicilia2" target="sicilia" weight="18.0">
+      <edge source="siciliaduepuntozero" target="leopoldasiciliana" weight="18.0">
         <attvalues>
           <attvalue for="weight" value="18.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="sicilia2" target="versosud" weight="49.0">
+      <edge source="siciliaduepuntozero" target="lima">
         <attvalues>
-          <attvalue for="weight" value="49.0"></attvalue>
+          <attvalue for="weight" value="1.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="sicilia2" target="siciliaduepuntozero" weight="11.0">
+      <edge source="siciliaduepuntozero" target="miccichè">
         <attvalues>
-          <attvalue for="weight" value="11.0"></attvalue>
+          <attvalue for="weight" value="1.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="sicilia2" target="innovazione" weight="4.0">
+      <edge source="siciliaduepuntozero" target="proconsoli">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="siciliaduepuntozero" target="sicilia" weight="18.0">
+        <attvalues>
+          <attvalue for="weight" value="18.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="siciliaduepuntozero" target="iostoconelly">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="siciliaduepuntozero" target="palermo" weight="20.0">
+        <attvalues>
+          <attvalue for="weight" value="20.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="siciliaduepuntozero" target="soldout">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="siciliaduepuntozero" target="condivisione">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="siciliaduepuntozero" target="almirante">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="siciliaduepuntozero" target="sicilia2" weight="60.0">
+        <attvalues>
+          <attvalue for="weight" value="60.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="siciliaduepuntozero" target="renzi">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="siciliaduepuntozero" target="pd" weight="4.0">
         <attvalues>
           <attvalue for="weight" value="4.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="sicilia2" target="socialbusiness" weight="4.0">
+      <edge source="siciliaduepuntozero" target="diritti" weight="21.0">
         <attvalues>
-          <attvalue for="weight" value="4.0"></attvalue>
+          <attvalue for="weight" value="21.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="sicilia2" target="leopoldasicula" weight="3.0">
+      <edge source="siciliaduepuntozero" target="educarealledifferenze" weight="6.0">
         <attvalues>
-          <attvalue for="weight" value="3.0"></attvalue>
+          <attvalue for="weight" value="6.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="sicilia2" target="neiguai">
-        <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="sicilia2" target="lavoltabuona" weight="2.0">
-        <attvalues>
-          <attvalue for="weight" value="2.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="sicilia2" target="wearorange" weight="3.0">
-        <attvalues>
-          <attvalue for="weight" value="3.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="sicilia2" target="macelleriasociale">
+      <edge source="siciliaduepuntozero" target="burrafato">
         <attvalues>
           <attvalue for="weight" value="1.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="sicilia2" target="italia">
-        <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="sicilia2" target="sicilia2punto0" weight="2.0">
-        <attvalues>
-          <attvalue for="weight" value="2.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="sicilia2" target="terminiimerese" weight="2.0">
-        <attvalues>
-          <attvalue for="weight" value="2.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="sicilia2" target="solocosebelle">
-        <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="sicilia2" target="regione">
-        <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="sicilia2" target="csa">
-        <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="sicilia2" target="gruppocsa">
-        <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="giovani" target="futuro" weight="14.0">
-        <attvalues>
-          <attvalue for="weight" value="14.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="giovani" target="sicilia" weight="14.0">
-        <attvalues>
-          <attvalue for="weight" value="14.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="futuro" target="sicilia" weight="14.0">
-        <attvalues>
-          <attvalue for="weight" value="14.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="sicilia" target="leopolda">
-        <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="sicilia" target="siciliaduepuntozero">
-        <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="sicilia" target="neiguai">
-        <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="sicilia" target="lavoltabuona">
-        <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="sicilia" target="italia">
-        <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="tavolo15" target="sicilia2" weight="5.0">
+      <edge source="siciliaduepuntozero" target="scuola" weight="5.0">
         <attvalues>
           <attvalue for="weight" value="5.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="palermo" target="sicilia2" weight="18.0">
-        <attvalues>
-          <attvalue for="weight" value="18.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="versosud" target="innovazione" weight="4.0">
+      <edge source="siciliaduepuntozero" target="pasticceriamarsicano" weight="4.0">
         <attvalues>
           <attvalue for="weight" value="4.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="versosud" target="socialbusiness" weight="4.0">
-        <attvalues>
-          <attvalue for="weight" value="4.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="sicilia2puntozero" target="sicilia2" weight="2.0">
+      <edge source="siciliaduepuntozero" target="dateunsegnocazzo" weight="2.0">
         <attvalues>
           <attvalue for="weight" value="2.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="donne" target="sicilia2" weight="3.0">
+      <edge source="siciliaduepuntozero" target="buonapolitica" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="siciliaduepuntozero" target="start" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="siciliaduepuntozero" target="smartcity" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="siciliaduepuntozero" target="dietrolequinte" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="siciliaduepuntozero" target="dgtmedia" weight="3.0">
         <attvalues>
           <attvalue for="weight" value="3.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="leopolda" target="sicilia2" weight="8.0">
+      <edge source="siciliaduepuntozero" target="renziacasa">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="siciliaduepuntozero" target="leopoldasicula" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="siciliaduepuntozero" target="davidefaraone">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="siciliaduepuntozero" target="partitodelinquenti">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="siciliaduepuntozero" target="lavoltabuona" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="siciliaduepuntozero" target="jesuislobo">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="siciliaduepuntozero" target="maiconsalvini" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="leopoldasiciliana" target="leopoldasiciliana">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="leopoldasiciliana" target="sicilia2punto0" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="leopoldasiciliana" target="sicilia2" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="messina" target="siciliaduepuntozero" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="messina" target="sicilia2">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="messina" target="utin">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="lima" target="miccichè">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="lima" target="proconsoli">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="lima" target="sicilia">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="miccichè" target="proconsoli">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="miccichè" target="sicilia">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="proconsoli" target="sicilia">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="sicilia" target="sicilia2" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="sicilia" target="coraggio" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="crocettastaisereno" target="siciliaduepuntozero" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="crocettastaisereno" target="leopolda">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="crocettastaisereno" target="palermo">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="leopolda" target="siciliaduepuntozero" weight="8.0">
         <attvalues>
           <attvalue for="weight" value="8.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="siciliaduepuntozero" target="palermo" weight="4.0">
+      <edge source="leopolda" target="sicilia" weight="4.0">
         <attvalues>
           <attvalue for="weight" value="4.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="siciliaduepuntozero" target="leopolda">
-        <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="siciliaduepuntozero" target="sicilia2punto0" weight="2.0">
+      <edge source="leopolda" target="palermo" weight="2.0">
         <attvalues>
           <attvalue for="weight" value="2.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="innovazione" target="socialbusiness" weight="4.0">
+      <edge source="palermo" target="sicilia">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="palermo" target="igerspalermo" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="crocetta" target="siciliaduepuntozero">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="crocetta" target="sicilia">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="crocetta" target="leopolda">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="crocetta" target="palermo">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="soldout" target="condivisione">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="braccialettirossi" target="siciliaduepuntozero" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="braccialettirossi" target="leopolda" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="postgol" target="siciliaduepuntozero" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="postgol" target="startup" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="postgol" target="adidas" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="postgol" target="futsal" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="postgol" target="sport" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="postgol" target="betclic" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="postgol" target="sicilia2punto0" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="postgol" target="dgtmedia" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="startup" target="siciliaduepuntozero" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="startup" target="adidas" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="startup" target="futsal" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="startup" target="sport" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="startup" target="betclic" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="startup" target="sicilia2punto0" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="startup" target="dgtmedia" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="adidas" target="siciliaduepuntozero" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="adidas" target="futsal" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="adidas" target="sport" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="adidas" target="betclic" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="adidas" target="sicilia2punto0" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="adidas" target="dgtmedia" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="futsal" target="siciliaduepuntozero" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="futsal" target="sport" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="futsal" target="betclic" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="futsal" target="sicilia2punto0" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="sport" target="siciliaduepuntozero" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="sport" target="betclic" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="sport" target="sicilia2punto0" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="sport" target="dgtmedia" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="betclic" target="siciliaduepuntozero" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="betclic" target="sicilia2punto0" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="betclic" target="dgtmedia" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="sicilia2punto0" target="siciliaduepuntozero" weight="23.0">
+        <attvalues>
+          <attvalue for="weight" value="23.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="sicilia2punto0" target="palermo">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="sicilia2punto0" target="pd">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="piùsocial" target="siciliaduepuntozero">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="piùsocial" target="sicilia2">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="sicilia2" target="leopolda" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="sicilia2" target="palermo" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="sicilia2" target="sicilia2punto0" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="futuro" target="siciliaduepuntozero" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="futuro" target="presente" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="presente" target="siciliaduepuntozero" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="sbrex" target="siciliaduepuntozero">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="pd" target="palermo">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="pd" target="unionicivili" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="pd" target="antidiscriminazioni" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="pd" target="troisi">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="pd" target="benigni">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="normanzarcone" target="siciliaduepuntozero" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="diritti" target="sicilia" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="diritti" target="famiglie" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="diritti" target="unionicivili" weight="4.0">
         <attvalues>
           <attvalue for="weight" value="4.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="leopoldasicula" target="lavoltabuona">
+      <edge source="diritti" target="educarealledifferenze" weight="6.0">
         <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
+          <attvalue for="weight" value="6.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="leopoldasicula" target="labuonapolitica">
+      <edge source="diritti" target="scuola" weight="3.0">
         <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
+          <attvalue for="weight" value="3.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="sceltacivica" target="sicilia2">
+      <edge source="delrio" target="siciliaduepuntozero" weight="6.0">
         <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
+          <attvalue for="weight" value="6.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="sceltacivica" target="sicilia">
-        <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="sceltacivica" target="popolari">
-        <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="sceltacivica" target="pd">
-        <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="sceltacivica" target="onlyinitaly">
-        <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="sceltacivica" target="neiguai">
-        <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="sceltacivica" target="lavoltabuona">
-        <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="popolari" target="sicilia2">
-        <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="popolari" target="sicilia">
-        <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="popolari" target="pd">
-        <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="popolari" target="onlyinitaly">
-        <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="popolari" target="neiguai">
-        <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="popolari" target="lavoltabuona">
-        <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="pd" target="sicilia2" weight="2.0">
+      <edge source="diritticivili" target="siciliaduepuntozero" weight="2.0">
         <attvalues>
           <attvalue for="weight" value="2.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="pd" target="sicilia" weight="2.0">
+      <edge source="diritticivili" target="pd" weight="2.0">
         <attvalues>
           <attvalue for="weight" value="2.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="pd" target="onlyinitaly">
+      <edge source="diritticivili" target="famiglie" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="diritticivili" target="unionicivili" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="diritticivili" target="antidiscriminazioni" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="famiglie" target="siciliaduepuntozero" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="famiglie" target="pd" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="famiglie" target="unionicivili" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="famiglie" target="antidiscriminazioni" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="famiglie" target="educarealledifferenze" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="unionicivili" target="siciliaduepuntozero" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="unionicivili" target="sicilia" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="unionicivili" target="antidiscriminazioni" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="antidiscriminazioni" target="siciliaduepuntozero" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="scuola" target="educarealledifferenze" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="instagram" target="siciliaduepuntozero">
         <attvalues>
           <attvalue for="weight" value="1.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="pd" target="neiguai">
+      <edge source="instagram" target="palermo">
         <attvalues>
           <attvalue for="weight" value="1.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="pd" target="lavoltabuona">
+      <edge source="instagram" target="igerspalermo">
         <attvalues>
           <attvalue for="weight" value="1.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="onlyinitaly" target="sicilia2">
+      <edge source="igerspalermo" target="siciliaduepuntozero" weight="2.0">
         <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
+          <attvalue for="weight" value="2.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="onlyinitaly" target="sicilia">
+      <edge source="pasticceriamarsicano" target="dateunsegnocazzo" weight="2.0">
         <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
+          <attvalue for="weight" value="2.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="onlyinitaly" target="neiguai">
+      <edge source="smartcities" target="siciliaduepuntozero" weight="5.0">
         <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
+          <attvalue for="weight" value="5.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="onlyinitaly" target="lavoltabuona">
+      <edge source="smartcities" target="innovazione" weight="5.0">
         <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
+          <attvalue for="weight" value="5.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="neiguai" target="lavoltabuona">
+      <edge source="innovazione" target="siciliaduepuntozero" weight="9.0">
         <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
+          <attvalue for="weight" value="9.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="cumlaude" target="sicilia2" weight="4.0">
+      <edge source="innovazione" target="start" weight="4.0">
         <attvalues>
           <attvalue for="weight" value="4.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="ilmiospeech" target="sicilia2" weight="14.0">
+      <edge source="innovazione" target="smartcity" weight="4.0">
         <attvalues>
-          <attvalue for="weight" value="14.0"></attvalue>
+          <attvalue for="weight" value="4.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="labuonapolitica" target="sicilia2">
+      <edge source="mivienedapiangere" target="siciliaduepuntozero" weight="3.0">
         <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
+          <attvalue for="weight" value="3.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="labuonapolitica" target="lavoltabuona">
-        <attvalues>
-          <attvalue for="weight" value="1.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="politica" target="sicilia2">
+      <edge source="galattica" target="siciliaduepuntozero">
         <attvalues>
           <attvalue for="weight" value="1.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="selfie" target="sicilia2" weight="2.0">
+      <edge source="galattica" target="genovaveloce">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="galattica" target="buonapolitica">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="genovaveloce" target="siciliaduepuntozero" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="genovaveloce" target="buonapolitica">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="buonapolitica" target="leopolda">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="start" target="smartcity" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="mafia" target="siciliaduepuntozero" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="mafia" target="coraggio" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="coraggio" target="siciliaduepuntozero" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="dietrolequinte" target="sicilia2" weight="2.0">
         <attvalues>
           <attvalue for="weight" value="2.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="selfie" target="leopolda" weight="2.0">
+      <edge source="camerecommercio" target="siciliaduepuntozero" weight="3.0">
         <attvalues>
-          <attvalue for="weight" value="2.0"></attvalue>
+          <attvalue for="weight" value="3.0"></attvalue>
         </attvalues>
       </edge>
-      <edge source="piùsocial" target="sicilia2" weight="2.0">
-        <attvalues>
-          <attvalue for="weight" value="2.0"></attvalue>
-        </attvalues>
-      </edge>
-      <edge source="csa" target="gruppocsa">
+      <edge source="utin" target="siciliaduepuntozero">
         <attvalues>
           <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="utin" target="sicilia2">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="miracolipd" target="siciliaduepuntozero" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="faraone" target="siciliaduepuntozero">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="bolognetta" target="siciliaduepuntozero">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="bolognetta" target="leopoldasiciliana">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="troisi" target="siciliaduepuntozero">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="troisi" target="benigni">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="benigni" target="siciliaduepuntozero">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="davidefaraone" target="partitodelinquenti">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="lavoltabuona" target="palermo" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="lavoltabuona" target="maiconsalvini" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
         </attvalues>
       </edge>
     </edges>
